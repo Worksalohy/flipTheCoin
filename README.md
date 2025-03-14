@@ -1,1 +1,2 @@
 # flipTheCoin
+This is a litle game that randomly flips the coin by clicking on a button or coin image. The advantage of it being random is that with each click, the player can flip either heads or tails.
